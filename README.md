@@ -1,3 +1,5 @@
+![Screenshot 2023-08-03 111910](https://github.com/yug20/first-native-app/assets/110123287/ee5e2cfc-aa66-49ee-8ae2-21d059b68dbc)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
